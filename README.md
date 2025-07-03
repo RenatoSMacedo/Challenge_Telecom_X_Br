@@ -56,10 +56,3 @@ Análise exploratória de dados da empresa fictícia **Telecom X**, com o objeti
 - Matplotlib
 - Jupyter Notebook
 
----
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/telecom-churn-analysis.git
